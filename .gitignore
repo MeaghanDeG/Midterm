@@ -1,0 +1,11 @@
+.DS_Store
+.bash_history
+.npm/
+.vscode/
+.node_repl_history
+.zsh_history
+.zshrc
+.Trash/
+Documents/
+Downloads/
+
