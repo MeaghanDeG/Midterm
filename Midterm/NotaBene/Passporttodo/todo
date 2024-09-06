@@ -1,0 +1,2 @@
+After successful authentication, Passport.js will store the user information in req.user. You can manage this data as needed in your app.
+
